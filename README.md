@@ -39,6 +39,22 @@ select(hit tab) -> id="multiple"
 within select block
 option(hit tab) value=" " vscode
 
+# CSS
+
+padding -> used to generate spaces around an elements content
+html {
+    background: url(paste some address of image to make the whole image cover the whole background)
+
+ id > class -> in terms of specificity
+
+ h1,h2,h3 -> means select all three
+ ul li-> inside ul go to the elements having li tag
+ header > a -> only select a inside  of header
+ img + p -> selects only the first sibling 
+ h1:hover { bg-color} -> when you hover over that particular element it will change the color
+
+ # Read about positions(mdn) and flex(https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 
 
