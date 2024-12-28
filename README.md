@@ -3,7 +3,7 @@
 # Refer here for shortcuts
 https://docs.emmet.io/cheat-sheet/
 
-#HTML
+# HTML
 a: (hit tab) href -> used to add a hyperlink reference
 br -> used to break lines
 hr -> used to draw a horizontal line
