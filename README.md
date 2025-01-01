@@ -38,6 +38,13 @@ input:text(hit tab) -> placeholder gives that thing in the input box
 select(hit tab) -> id="multiple"
 within select block
 option(hit tab) value=" " vscode
+select -> we can create dropdown menu
+option -> we can create options of dropdown
+textarea-> used for multiline comments
+fieldset -> used for grouping
+legend -> used for giving captions
+type is very important in input tag
+id of input tag and label ka for is same
 
 # CSS
 
