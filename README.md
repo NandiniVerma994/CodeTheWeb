@@ -3,6 +3,8 @@
 # Refer here for shortcuts
 https://docs.emmet.io/cheat-sheet/
 
+https://react.dev/reference/react
+
 # HTML
 a: (hit tab) href -> used to add a hyperlink reference
 br -> used to break lines
